@@ -32,3 +32,4 @@ Then click anywhere, AI will put down a chess.
 Press 'b' to undo one step.
 "# othello" 
 "# othello" 
+# othello
